@@ -1,2 +1,2 @@
 # NoWeibo
-Known weibo instant post based on Golang
+Known instant post of Weibo based on Golang

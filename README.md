@@ -10,3 +10,7 @@ Known instant post of Weibo based on Golang
 进入 [demo](./src/noweibo/examples/)，执行
 
 `go run weibo_demo.go --access_token='your-token'`
+
+或者 `bash test.sh`
+
+没有找到微博更新 API，所以写了一个读取本地输入命令的函数代替。
